@@ -1,0 +1,24 @@
+.Board {
+  margin: 0 auto;
+  box-shadow: 0 0 50px #fff, -10px 0 80px #f0f, 10px 0 80px #0ff;
+}
+
+.Board-title {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 10px
+}
+
+.lights {
+	font-family: neon;
+	color: #00bcd4;
+	font-size: 60px
+
+}
+
+.out {
+	font-family: neon;
+	color: #263238;
+	font-size: 60px;
+}
